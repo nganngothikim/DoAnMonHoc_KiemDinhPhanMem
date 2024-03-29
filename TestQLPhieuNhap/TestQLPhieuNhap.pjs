@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{24B6FA0B-0143-461A-9758-AEB9E9A9428B}" version="15.0" key="{619E9A20-4125-4875-BF48-979EEAD6F3D0}">
+	<children>
+		<child name="TestThemPN" key="{0FAD7CB5-F6FE-45E2-87F0-D4231DC32CBA}" path="TestThemPN\TestThemPN.mds" />
+		<child name="TestXoaCTPN" key="{9F3B867F-FFEB-47C6-AB2B-6A2C2ABDD409}" path="TestXoaCTPN\TestXoaCTPN.mds" />
+	</children>
+	<testItems key="{3A46A035-1ABE-450F-ACB1-4B8EC2338765}">
+		<children>
+			<testItem key="{0FAD7CB5-F6FE-45E2-87F0-D4231DC32CBA}" enabled="True" timeout="0" stopOnError="True" description="" />
+			<testItem key="{9F3B867F-FFEB-47C6-AB2B-6A2C2ABDD409}" enabled="True" timeout="0" stopOnError="True" description="" />
+		</children>
+	</testItems>
+	<variables key="{F35D5231-75D6-4EEF-93C9-0F613EA0E9A8}" />
+	<analysis key="{67F0FD5D-C137-448C-9DB3-1AC4CC07AB36}" />
+	<scc key="{00000000-0000-0000-0000-000000000000}" name="">
+		<data />
+	</scc>
+</Root>

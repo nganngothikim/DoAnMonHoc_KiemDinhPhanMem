@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{42D2222C-ACA2-405F-8E67-05D5C42EB839}" version="2">
+	<data key="{7ABFAF1C-84BD-49B3-B0F5-4E50B65BB7CE}">
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="2" kind="0" dateTime="45236.3863888889" objectName="Aliases.DoAnCongNgheNet.frm_Main.TabControlForm.TabPageNghiepVu.metroTabControl3.TabPagePhieuNhap.tblLapPhieuNhap.tbl_grvPN.grvChiTietPN_LapPN" objectLeft="1284" objectTop="696" objectRight="2508" objectBottom="1458" clickPointX="770" clickPointY="388" imageFileName="tcvi237248476440.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="3" kind="0" dateTime="45236.3864351852" objectName="Aliases.DoAnCongNgheNet.frm_Main.TabControlForm.TabPageNghiepVu.metroTabControl3.TabPagePhieuNhap.tblLapPhieuNhap.tableLayoutPanel1.tableLayoutPanel4.tbl_btnLapPhieuNhap.btnXoaCTPN_LapPN" objectLeft="1692" objectTop="620" objectRight="1948" objectBottom="684" clickPointX="899" clickPointY="328" imageFileName="tcvi237603176443.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="5" kind="0" dateTime="45242.6438310185" objectName="Aliases.DoAnCongNgheNet.dlg.btnYes" objectLeft="125" objectTop="148" objectRight="219" objectBottom="177" clickPointX="159" clickPointY="156" imageFileName="tcvi798693312156280.png" storageFileName="" needUpdate="False" rectColor="255" />
+		<item typeId="{87B03792-E854-4F5D-9F33-165F1F874209}" version="2" lineNo="7" kind="0" dateTime="45236.3865856481" objectName="Aliases.DoAnCongNgheNet.dlg.btnOK" objectLeft="298" objectTop="198" objectRight="448" objectBottom="244" clickPointX="368" clickPointY="216" imageFileName="tcvi238926576447.png" storageFileName="" needUpdate="False" rectColor="255" />
+	</data>
+</Root>

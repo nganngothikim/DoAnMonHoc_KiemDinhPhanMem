@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root Signature="{5DCBAC3B-D39C-497C-9BE8-744CBADD37AA}" NameMappingVersion="7" SaveImages="0">
+	<Storages Current="0">
+		<Child Name="Default Configuration" />
+	</Storages>
+	<Nodes Name="NameMapping" Key="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Children>
+			<Child Name="Sys" Key="{7CC1AF0E-CA12-4FD6-B13A-DC9236B7F204}">
+				<Properties>
+					<Property Name="Name">
+						<Value Value="Sys" />
+					</Property>
+				</Properties>
+				<Children>
+					<Child Name="DoAnCongNgheNet" Key="{D36EAACF-CC27-4CFA-9877-53B72F8E71B6}">
+						<Properties>
+							<Property Name="ProcessName">
+								<Value Value="DoAnCongNgheNet" />
+							</Property>
+						</Properties>
+						<Children>
+							<Child Name="frm_Main" Key="{88AE8A9C-7316-4C04-8E15-3BE26CC6B69D}">
+								<Image FileName="19296840" Left="0" Top="0" Right="2560" Bottom="1504" />
+								<Properties>
+									<Property Name="WinFormsControlName">
+										<Value Value="frm_Main" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="TabControlForm" Key="{5426235E-8B3B-4363-85A4-71A7038CFB48}">
+										<Image FileName="19296840" Left="28" Top="120" Right="2532" Bottom="1478" />
+										<TypeInfo Item0="{F148719C-ED2A-45B0-98FF-54F8AA1A4166}" />
+										<Properties>
+											<Property Name="WinFormsControlName">
+												<Value Value="TabControlForm" />
+											</Property>
+										</Properties>
+										<Children>
+											<Child Name="TabPageNghiepVu" Key="{6C9E0D2B-4755-45E6-BDCC-B44B3B34F9AC}">
+												<Image FileName="-141057780" Left="36" Top="208" Right="2524" Bottom="1470" />
+												<Properties>
+													<Property Name="WinFormsControlName">
+														<Value Value="TabPageNghiepVu" />
+													</Property>
+												</Properties>
+												<Children>
+													<Child Name="metroTabControl3" Key="{2A32843F-8B1D-41F6-A1D7-AE690F4CFCB1}">
+														<Image FileName="-141057780" Left="36" Top="208" Right="2524" Bottom="1470" />
+														<TypeInfo Item0="{F148719C-ED2A-45B0-98FF-54F8AA1A4166}" />
+														<Properties>
+															<Property Name="WinFormsControlName">
+																<Value Value="metroTabControl3" />
+															</Property>
+														</Properties>
+														<Children>
+															<Child Name="TabPagePhieuNhap" Key="{F7818C2F-16D2-4EA8-8B9E-FEBD1E4CDF03}">
+																<Image FileName="1944586319" Left="44" Top="284" Right="2516" Bottom="1462" />
+																<Properties>
+																	<Property Name="WinFormsControlName">
+																		<Value Value="TabPagePhieuNhap" />
+																	</Property>
+																</Properties>
+																<Children>
+																	<Child Name="tblLapPhieuNhap" Key="{CE930AA6-AAB8-4F45-9B3D-571CC8055533}">
+																		<Image FileName="1944586319" Left="44" Top="284" Right="2516" Bottom="1462" />
+																		<Properties>
+																			<Property Name="WinFormsControlName">
+																				<Value Value="tblLapPhieuNhap" />
+																			</Property>
+																		</Properties>
+																		<Children>
+																			<Child Name="tableLayoutPanel1" Key="{F7D5D949-B442-49C5-A226-323248AA9A4F}">
+																				<Image FileName="1944586319" Left="48" Top="286" Right="2512" Bottom="690" />
+																				<Properties>
+																					<Property Name="WinFormsControlName">
+																						<Value Value="tableLayoutPanel1" />
+																					</Property>
+																				</Properties>
+																				<Children>
+																					<Child Name="tableLayoutPanel4" Key="{F63B5A4D-9407-46D0-8BF8-846EE22DECD9}">
+																						<Image FileName="1944586319" Left="900" Top="288" Right="2508" Bottom="688" />
+																						<Properties>
+																							<Property Name="WinFormsControlName">
+																								<Value Value="tableLayoutPanel4" />
+																							</Property>
+																						</Properties>
+																						<Children>
+																							<Child Name="tableLayoutPanel5" Key="{057439B9-68BF-497E-8767-1C5C1791FF37}">
+																								<Image FileName="1944586319" Left="904" Top="290" Right="2504" Bottom="534" />
+																								<Properties>
+																									<Property Name="WinFormsControlName">
+																										<Value Value="tableLayoutPanel5" />
+																									</Property>
+																								</Properties>
+																								<Children>
+																									<Child Name="tableLayoutPanel6" Key="{C092F0EE-DF25-4F1C-8193-A58717756B5A}">
+																										<Image FileName="1944586319" Left="2042" Top="292" Right="2500" Bottom="532" />
+																										<Properties>
+																											<Property Name="WinFormsControlName">
+																												<Value Value="tableLayoutPanel6" />
+																											</Property>
+																										</Properties>
+																										<Children>
+																											<Child Name="btnThemCTPN_LapPN" Key="{0B7853E7-83B3-46F2-9D40-3DC67E4F6E8E}">
+																												<Image FileName="1944586319" Left="2046" Top="320" Right="2474" Bottom="384" />
+																												<TypeInfo Item0="{1C2756DA-86DC-4D34-B23B-84D67F7D0A4C}" />
+																												<Properties>
+																													<Property Name="WinFormsControlName">
+																														<Value Value="btnThemCTPN_LapPN" />
+																													</Property>
+																												</Properties>
+																											</Child>
+																											<Child Name="btnGhiPN_LapPN" Key="{EBA1862D-05ED-481C-A184-8480076C6AE4}">
+																												<Image FileName="-1456266759" Left="2046" Top="440" Right="2474" Bottom="504" />
+																												<TypeInfo Item0="{1C2756DA-86DC-4D34-B23B-84D67F7D0A4C}" />
+																												<Properties>
+																													<Property Name="WinFormsControlName">
+																														<Value Value="btnGhiPN_LapPN" />
+																													</Property>
+																												</Properties>
+																											</Child>
+																										</Children>
+																									</Child>
+																									<Child Name="tbl_txtLapPhieuNhap" Key="{48D9B42B-F7FE-4A6A-9CD4-CF892F1B06D4}">
+																										<Image FileName="-1280424878" Left="908" Top="292" Right="2034" Bottom="532" />
+																										<Properties>
+																											<Property Name="WinFormsControlName">
+																												<Value Value="tbl_txtLapPhieuNhap" />
+																											</Property>
+																										</Properties>
+																										<Children>
+																											<Child Name="txtSoLuong_LapPN" Key="{88F60E58-6347-463B-9B0F-90C7DFECCE2D}">
+																												<Image FileName="-1280424878" Left="1408" Top="440" Right="1650" Bottom="492" />
+																												<Properties>
+																													<Property Name="WinFormsControlName">
+																														<Value Value="txtSoLuong_LapPN" />
+																													</Property>
+																												</Properties>
+																												<Children>
+																													<Child Name="PromptedTextBox" Key="{2E756045-0D62-47D2-9167-5F8364BCD311}">
+																														<Image FileName="-1280424878" Left="1414" Top="446" Right="1644" Bottom="478" />
+																														<TypeInfo Item0="{349860AB-9033-4F04-A625-835C013AECA5}" />
+																														<Properties>
+																															<Property Name="ClrFullClassName">
+																																<Value Value="MetroFramework.Controls.MetroTextBox+PromptedTextBox" />
+																															</Property>
+																														</Properties>
+																													</Child>
+																												</Children>
+																											</Child>
+																											<Child Name="txtGiaNhap_LapPhieuNhap" Key="{7624FB7A-4F6E-4ED4-95C2-B66D426058E4}">
+																												<Image FileName="-1933595703" Left="1808" Top="320" Right="2028" Bottom="372" />
+																												<Properties>
+																													<Property Name="WinFormsControlName">
+																														<Value Value="txtGiaNhap_LapPhieuNhap" />
+																													</Property>
+																												</Properties>
+																												<Children>
+																													<Child Name="PromptedTextBox" Key="{10BBDB22-0FE8-40DF-AB1E-007CF0F08B5C}">
+																														<Image FileName="-1933595703" Left="1814" Top="326" Right="2022" Bottom="358" />
+																														<TypeInfo Item0="{349860AB-9033-4F04-A625-835C013AECA5}" />
+																														<Properties>
+																															<Property Name="ClrFullClassName">
+																																<Value Value="MetroFramework.Controls.MetroTextBox+PromptedTextBox" />
+																															</Property>
+																														</Properties>
+																													</Child>
+																												</Children>
+																											</Child>
+																										</Children>
+																									</Child>
+																								</Children>
+																							</Child>
+																							<Child Name="tbl_btnLapPhieuNhap" Key="{1477BA53-A26E-43FD-BF49-AA9BD61886F0}">
+																								<Image FileName="862987346" Left="904" Top="538" Right="2504" Bottom="686" />
+																								<Properties>
+																									<Property Name="WinFormsControlName">
+																										<Value Value="tbl_btnLapPhieuNhap" />
+																									</Property>
+																								</Properties>
+																								<Children>
+																									<Child Name="btnLapPhieu_LapPN" Key="{B02951B7-0AB1-4974-AEF0-C11A2EB05798}">
+																										<Image FileName="862987346" Left="1442" Top="620" Right="1684" Bottom="684" />
+																										<TypeInfo Item0="{1C2756DA-86DC-4D34-B23B-84D67F7D0A4C}" />
+																										<Properties>
+																											<Property Name="WinFormsControlName">
+																												<Value Value="btnLapPhieu_LapPN" />
+																											</Property>
+																										</Properties>
+																									</Child>
+																								</Children>
+																							</Child>
+																						</Children>
+																					</Child>
+																				</Children>
+																			</Child>
+																			<Child Name="tbl_grvPN" Key="{73042B79-01B2-40D1-9643-E82F51876194}">
+																				<Image FileName="454215522" Left="48" Top="694" Right="2512" Bottom="1460" />
+																				<Properties>
+																					<Property Name="WinFormsControlName">
+																						<Value Value="tbl_grvPN" />
+																					</Property>
+																				</Properties>
+																				<Children>
+																					<Child Name="grvDSSach_LapPN" Key="{DDE54F05-54B2-4BB1-8CC0-29F25375EEEF}">
+																						<Image FileName="454215522" Left="52" Top="696" Right="1276" Bottom="1458" />
+																						<TypeInfo Item0="{1B19D190-7211-4FAF-9AF2-7580552EC43C}" />
+																						<Properties>
+																							<Property Name="WinFormsControlName">
+																								<Value Value="grvDSSach_LapPN" />
+																							</Property>
+																						</Properties>
+																					</Child>
+																				</Children>
+																			</Child>
+																		</Children>
+																	</Child>
+																</Children>
+															</Child>
+														</Children>
+													</Child>
+												</Children>
+											</Child>
+										</Children>
+									</Child>
+								</Children>
+							</Child>
+							<Child Name="dlg" Key="{817913D6-98D8-41A1-9F1E-06DCF46269FC}">
+								<Image FileName="-294636837" Left="0" Top="0" Right="512" Bottom="280" />
+								<TypeInfo Item0="{73FCD29E-3AB3-4152-845F-B69625B81E78}" />
+								<Properties>
+									<Property Name="WndClass">
+										<Value Value="#32770" />
+									</Property>
+								</Properties>
+								<Children>
+									<Child Name="Static" Key="{E40BDAD2-78F5-4C51-8573-B2C2BB05EB7E}">
+										<Image FileName="-294636837" Left="38" Top="108" Right="438" Bottom="138" />
+										<TypeInfo Item0="{1B19D190-7211-4FAF-9AF2-7580552EC43C}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="Static" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value Value="Thêm thành công chi tiết phiếu nhập !" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="btnOK" Key="{CC519F0B-4FD8-45EF-A66F-AB9B108BF25B}">
+										<Image FileName="-804287045" Left="316" Top="198" Right="466" Bottom="244" />
+										<TypeInfo Item0="{1C2756DA-86DC-4D34-B23B-84D67F7D0A4C}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="Button" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value Value="OK" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="Static2" Key="{4DE49E05-FD73-4DD3-B4BC-D8E8B3DD08C6}">
+										<Image FileName="1993409489" Left="38" Top="108" Right="446" Bottom="138" />
+										<TypeInfo Item0="{1B19D190-7211-4FAF-9AF2-7580552EC43C}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="Static" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value Value="Thêm thành công Chi Tiết Phiếu Nhập !" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="Static3" Key="{6EEA1E18-5FD8-496D-A521-96CD9CB5A21B}">
+										<Image FileName="-709056855" Left="38" Top="108" Right="524" Bottom="138" />
+										<TypeInfo Item0="{1B19D190-7211-4FAF-9AF2-7580552EC43C}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="Static" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value Value="Phải thêm đầy đủ số lượng để Lập Phiếu Nhập!" />
+											</Property>
+										</Properties>
+									</Child>
+									<Child Name="Static4" Key="{DBF10118-5CE9-4FEB-8AE2-EF7874D95829}">
+										<Image FileName="1670473970" Left="38" Top="108" Right="380" Bottom="138" />
+										<TypeInfo Item0="{1B19D190-7211-4FAF-9AF2-7580552EC43C}" />
+										<Properties>
+											<Property Name="WndClass">
+												<Value Value="Static" />
+											</Property>
+											<Property Name="WndCaption">
+												<Value Value="Giá nhập phải nhỏ hơn giá bán !" />
+											</Property>
+										</Properties>
+									</Child>
+								</Children>
+							</Child>
+						</Children>
+					</Child>
+				</Children>
+			</Child>
+		</Children>
+	</Nodes>
+	<LogicalNodes Name="Aliases" Owner="{BE401E45-B2D6-4FBA-931A-C2117D5C51AD}">
+		<Child Name="DoAnCongNgheNet" Owner="{D36EAACF-CC27-4CFA-9877-53B72F8E71B6}">
+			<Child Name="frm_Main" Owner="{88AE8A9C-7316-4C04-8E15-3BE26CC6B69D}">
+				<Child Name="TabControlForm" Owner="{5426235E-8B3B-4363-85A4-71A7038CFB48}">
+					<Child Name="TabPageNghiepVu" Owner="{6C9E0D2B-4755-45E6-BDCC-B44B3B34F9AC}">
+						<Child Name="metroTabControl3" Owner="{2A32843F-8B1D-41F6-A1D7-AE690F4CFCB1}">
+							<Child Name="TabPagePhieuNhap" Owner="{F7818C2F-16D2-4EA8-8B9E-FEBD1E4CDF03}">
+								<Child Name="tblLapPhieuNhap" Owner="{CE930AA6-AAB8-4F45-9B3D-571CC8055533}">
+									<Child Name="tableLayoutPanel1" Owner="{F7D5D949-B442-49C5-A226-323248AA9A4F}">
+										<Child Name="tableLayoutPanel4" Owner="{F63B5A4D-9407-46D0-8BF8-846EE22DECD9}">
+											<Child Name="tableLayoutPanel5" Owner="{057439B9-68BF-497E-8767-1C5C1791FF37}">
+												<Child Name="tableLayoutPanel6" Owner="{C092F0EE-DF25-4F1C-8193-A58717756B5A}">
+													<Child Name="btnThemCTPN_LapPN" Owner="{0B7853E7-83B3-46F2-9D40-3DC67E4F6E8E}" />
+													<Child Name="btnGhiPN_LapPN" Owner="{EBA1862D-05ED-481C-A184-8480076C6AE4}" />
+												</Child>
+												<Child Name="tbl_txtLapPhieuNhap" Owner="{48D9B42B-F7FE-4A6A-9CD4-CF892F1B06D4}">
+													<Child Name="txtSoLuong_LapPN" Owner="{88F60E58-6347-463B-9B0F-90C7DFECCE2D}">
+														<Child Name="PromptedTextBox" Owner="{2E756045-0D62-47D2-9167-5F8364BCD311}" />
+													</Child>
+													<Child Name="txtGiaNhap_LapPhieuNhap" Owner="{7624FB7A-4F6E-4ED4-95C2-B66D426058E4}">
+														<Child Name="PromptedTextBox" Owner="{10BBDB22-0FE8-40DF-AB1E-007CF0F08B5C}" />
+													</Child>
+												</Child>
+											</Child>
+											<Child Name="tbl_btnLapPhieuNhap" Owner="{1477BA53-A26E-43FD-BF49-AA9BD61886F0}">
+												<Child Name="btnLapPhieu_LapPN" Owner="{B02951B7-0AB1-4974-AEF0-C11A2EB05798}" />
+											</Child>
+										</Child>
+									</Child>
+									<Child Name="tbl_grvPN" Owner="{73042B79-01B2-40D1-9643-E82F51876194}">
+										<Child Name="grvDSSach_LapPN" Owner="{DDE54F05-54B2-4BB1-8CC0-29F25375EEEF}" />
+									</Child>
+								</Child>
+							</Child>
+						</Child>
+					</Child>
+				</Child>
+			</Child>
+			<Child Name="dlg" Owner="{817913D6-98D8-41A1-9F1E-06DCF46269FC}">
+				<Child Name="Static" Owner="{E40BDAD2-78F5-4C51-8573-B2C2BB05EB7E}" />
+				<Child Name="btnOK" Owner="{CC519F0B-4FD8-45EF-A66F-AB9B108BF25B}" />
+				<Child Name="Static2" Owner="{4DE49E05-FD73-4DD3-B4BC-D8E8B3DD08C6}" />
+				<Child Name="Static3" Owner="{6EEA1E18-5FD8-496D-A521-96CD9CB5A21B}" />
+				<Child Name="Static4" Owner="{DBF10118-5CE9-4FEB-8AE2-EF7874D95829}" />
+			</Child>
+		</Child>
+	</LogicalNodes>
+</Root>

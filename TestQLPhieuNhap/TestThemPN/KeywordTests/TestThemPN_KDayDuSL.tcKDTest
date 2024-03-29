@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{B9D9273E-7266-43E0-BF02-97F168593604}" version="15.0">
+	<TestData Description="" Key="{EE448A6E-A8B3-44F3-95B9-56DAC221C705}" Type="{79147B28-EE20-4294-B773-1D3787FBF37B}">
+		<Data>
+			<Extenders>
+				<NodeBitmaps>
+					<Bitmap Name="Aliases.DoAnCongNgheNet" Data="61717A697000000001000000360400007801BD914D4B024118C7FF411FA08FD0B12F90272F76F05641511B24D10B09BDB89A118250414865A5951525451DB6172B3CB410BA84A0D145B0D8100C2AC94B084694E0C1DBB633B6B65AE921688667E6199EF93DFFE799696AD6D4820E8DBC36C856F76935A8973D797CC60B87C22AA1F2E45F24102353ED57A6BEEECF19BAB1D4C550767D73151B6DEDC57CEA1C46A3116A53B4165A5B70D66F8445ABA52CD9955839CFF33C0441A0F12DA603D37A3DC2EC302EFA7A703E68C0BDC58CAB81012C9A86606AD494D441B4D5FCE3DC2CC2133690DDD9C9C0C51D8077CE53FE4C3E1353DE85D4A1E62391088DC56536B5ECC2984E078F780B6FF812D72CFB8D2DE749DEE48A1BCFFB8778F7F97032C2C2C63058E8EDC5E5A889F2D5EA7F088570E759C35B3088D7631F92CE5924266D940F5BAD0859C7ABD64FEA783A3AC1C3DE2EC49929DC4CD921982D9453F75E5E3FE93F1A8DD27BC99D6DC44F7DD427BCA24BDEEBB7FF537851148B5AE974BAE84B52E1BDD5BCDD6E87C3E180DBED86D7EB05C771F0FBFD08040220F962B11812890452A91432990C72B95C893EE149BC129FCD66299FCFE77FE4FFA2AFEEE53FFD0F0C13FF0C" />
+					<Bitmap Name="Aliases.DoAnCongNgheNet.dlg" Data="61717A697000000001000000360400007801C591CD4B024118C69FA03FA03FA163C7E8E0A14BD42528A2637436BC4404753028A420F42044501991111925E42582923A4474F250418720A8285A5357F37B77DD8F59B7D955635D45EAE40CCF30C3F0FCE699F71D1AB375C21836BAF6507555D5816EBAA3A37A5F3954560DED9FE1C006A6466CFF9239B5EE57B81C94620672210D39978294652165E290D2319412EF109867706F8FE05E1E8C77AC7E22145A32C4148352EC15FCC753737F89430323FF4DB324698E8491A3C6D0FF6A7D5F1579902A83F0799A250B45FF4B1386D57F75E4832A8B50250144E70845B46258FD37213FCA44FE1B83D6D5EA8F9C1DA2AC92168CFADE58FD771741689AD6C030D7C4DC5FAB3F79E2852E36E801BBBF88F8F62C626B767CB927C0B846C13807F139DFFFAB88BDB7AEFEBA57BB0D40BDF6835CFAA09CAF433EF5420AAD420CBA200416C0EFCD81DF994671CB817B475F83BF962179EC067BB08CC4AE13F1CD994A0ECF24A22BE3882E0DD32C03460E73FFDBB9FF01EBA33263" />
+					<Bitmap Name="Aliases.DoAnCongNgheNet.frm_Main" Data="61717A697000000001000000361000007801ED577B4C535718DFFEDA62A6D0172D609CF13D1FD369E2B2C46C6E59D4C5986C513398660A3EE66B4E64D1A0A0642841C44DA78BD159410AC8C3FAA03C4AB4C8BAA288E5555E43286DB1D50EFAA4D0077DFC76EE8D2D3105E66282FBC393FCEE39F73BDFF7FDCEF9CE39DFBDE7B3354B43DFA0CB52F29C4330F519DEA45BE4E5593F6905CAD1158CBACB5F73F02AF0D32A8682E2CD8CE2227FE782714566342F30E7BC6D7330DE859AAF3FE6AFF95FC7FF55EF3F9F7B00FAF235288CFB0415C95FA0F75E0A7CEEC1318735A86B84B9290B3A5936B4D26CF45409F0582A80529A0797CD48DBDAED762895CA203F41FBDFE78149BA197C920FB2A23890EC67C150B10220F2918A4D538DF65FA742C57F0759D11C146FE1E1662C0F059B7838BF2E0CE284C5705AF5E8ECEC8448240A7211C44F34ECCA5C146C61E132E1AFF88109E58550D8BBAF06D9520255C17A3CC9E5A2741F9BE88741F43D1B253B7990254D027F031782CD5C28B26346B4A58423F10F19E4A8485A842B1BD828DDCB40CBCF4C98EEAE0BF2E132ABA0E42F42CF150E72BE0DA3D170928DDAE30BA1B9CC46C1362E72492CAA9266C0D4250BB21F8DDF6353A3E1D27AE46E6243F81D138A9313A1BF36133EEFD0733EACED85D0E6BF0F793A17855B3910EEE0A0EB6224948531B03C3C0A49020BC25DE1288B9F822EE1F6E76CFD2F23CDDFE7B143773B1E05B12CE4C7B008FF04687322E136B7F8CDE8DA589302BD703E2487B8B8B99B83BB893C74F3A7E16F591A868C8D683A3B17A571E1345A2F2CC3C093E6E7ECA99791F829B9AD8D8FB27DE128DACA84ECC844E804640FA88AA8AE40E9ABDA8EA745EFA17C3F0765711CD4674C86463007B68E22B8FB55D0DDD947621041A3FEF4123C9565046CFD8DD1F85DBD357898BE0837763020DAC3802E270CFD0DC97E33721C9C3048D6A2933F03770E72683CFA7D3A9E142D80ABAF0EDE212BFA1519A84D8D447572246AD366A1A738161E8739E0836A8CC6EF751AA12EFC92E6BEB58B81E673D360A88C0ED87A0654644F7E85E6B353213DC2A6A1CD9B0753F907F0BA4CB49EADF9149499B3214F9D4C43733D1A36B524E0836A8CC64FF5996B8FA33281AC1F390354AD2F59417C5BA82EB80D3530DE594D621E819A636CD4A593FEEB8B3150BD9AEEA71E831D7CE86F2C41FD8908D4A545A2337B154CF5A7492EF10574C6E277F5D6A2F19779A8D81F0A715C283AB23FC560771E6DEBD414407BED23DC4B61D350901CD457B20CF69684806F87FA167A4B96A3ED0C13F569116839B710C607A9F0DAB5019DB1F8E1754357F20D24074271FBC7104893A7A04FB60D1E672FFA9B8E417176262487D9349ACFCD8241BC12AE9EE13CE5EA93A3B77C25BACE4F40038901057DD561B88DF75E8C9F68397ACAF030750AEE1E0C41E58110B45DF91886A623D08BD7A2F2683844F12C1AEDE7E7C2F2E74678ACC367CCEB34A14FBC0ADD97DE8222230C8D648DD43736C2A111826C507A0C63CE9FD2F0B9F1B8380AD24393F04702894122131DF9F371FFC44C14ED61A370370BC5F15C745C5A0C7B6B62C02FED9C3C4CD218A8497E6C3B1382A6741EFEBAF8215943215983C7B4CABFF2132DB7E5111467A6A39AE47459E224B2DF78C8898D4426C94D59E43B5199F42EB4255118D28BFDB481DAA111417B751ADA7F7B9BE431F22D38C983B525131E4BD30BF3538A8EA7D5E4ACCDC683141634C56BA12ADD00E1DEE910C486A1EDE27238D53924273802BCC30D1FACF244A83299683EC5463319834EBC071EB39CE473E798E76FD8C7B316D98F5EF22F40E567EA3FC1E7B66168D0426476A2307CA682EC88C06D6E85A5550063031FD68E5BF0B90C64AD1CFF8D7F24C72F297B91F57F498A31CD5FF3FF7FEE3FD4FD93BA838D27284EEAFE77F873C67DFF3D70BC6B72F797FF0315C2CB6E" />
+				</NodeBitmaps>
+			</Extenders>
+		</Data>
+		<Children>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Selects the %p1 tab of the &apos;%n&apos; tab control." Action="ClickTab">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Item" DefVarType="12" VarType="8" ValueType="6" ValueValue="Nghiệp Vụ" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.DoAnCongNgheNet.frm_Main.TabControlForm;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; object." Action="Click">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="58" />
+						<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="18" />
+						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+							<Values IsEnum="True">
+								<Value Type="1" Value="0" Text="skNoShift" />
+								<Value Type="1" Value="8192" Text="skShift" />
+								<Value Type="1" Value="32768" Text="skAlt" />
+								<Value Type="1" Value="16384" Text="skCtrl" />
+							</Values>
+						</Parameter>
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.DoAnCongNgheNet.frm_Main.TabControlForm.TabPageNghiepVu.metroTabControl3;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Selects the %p1 tab of the &apos;%n&apos; tab control." Action="ClickTab">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Item" DefVarType="12" VarType="8" ValueType="6" ValueValue="&amp;&amp;Lập Phiếu Nhập" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.DoAnCongNgheNet.frm_Main.TabControlForm.TabPageNghiepVu.metroTabControl3;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.DoAnCongNgheNet.frm_Main.TabControlForm.TabPageNghiepVu.metroTabControl3.TabPagePhieuNhap.tblLapPhieuNhap.tableLayoutPanel1.tableLayoutPanel4.tableLayoutPanel5.tableLayoutPanel6.btnThemCTPN_LapPN;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; object." Action="Click">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="282" />
+						<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="41" />
+						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+							<Values IsEnum="True">
+								<Value Type="1" Value="0" Text="skNoShift" />
+								<Value Type="1" Value="8192" Text="skShift" />
+								<Value Type="1" Value="32768" Text="skAlt" />
+								<Value Type="1" Value="16384" Text="skCtrl" />
+							</Values>
+						</Parameter>
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.DoAnCongNgheNet.frm_Main.TabControlForm.TabPageNghiepVu.metroTabControl3.TabPagePhieuNhap.tblLapPhieuNhap.tbl_grvPN.grvDSSach_LapPN;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; object." Action="Click">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="44" />
+						<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="15" />
+						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+							<Values IsEnum="True">
+								<Value Type="1" Value="0" Text="skNoShift" />
+								<Value Type="1" Value="8192" Text="skShift" />
+								<Value Type="1" Value="32768" Text="skAlt" />
+								<Value Type="1" Value="16384" Text="skCtrl" />
+							</Values>
+						</Parameter>
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.DoAnCongNgheNet.frm_Main.TabControlForm.TabPageNghiepVu.metroTabControl3.TabPagePhieuNhap.tblLapPhieuNhap.tableLayoutPanel1.tableLayoutPanel4.tableLayoutPanel5.tbl_txtLapPhieuNhap.txtGiaNhap_LapPhieuNhap.PromptedTextBox;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Enters the text %p1 in the &apos;%n&apos; text editor." Action="SetText">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Text" DefVarType="8" VarType="8" ValueType="6" ValueValue="50000" />
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.DoAnCongNgheNet.frm_Main.TabControlForm.TabPageNghiepVu.metroTabControl3.TabPagePhieuNhap.tblLapPhieuNhap.tableLayoutPanel1.tableLayoutPanel4.tableLayoutPanel5.tbl_txtLapPhieuNhap.txtGiaNhap_LapPhieuNhap.PromptedTextBox;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; object." Action="Click">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="ClientX" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="50" />
+						<Parameter Name="ClientY" DefVarType="3" DefValueType="1" DefValueValue="-1" VarType="3" ValueType="1" ValueValue="8" />
+						<Parameter Name="Shift" DefVarType="12" DefValueType="1" DefValueValue="0" VarType="3" ValueType="1" ValueValue="0">
+							<Values IsEnum="True">
+								<Value Type="1" Value="0" Text="skNoShift" />
+								<Value Type="1" Value="8192" Text="skShift" />
+								<Value Type="1" Value="32768" Text="skAlt" />
+								<Value Type="1" Value="16384" Text="skCtrl" />
+							</Values>
+						</Parameter>
+					</Parameters>
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.DoAnCongNgheNet.frm_Main.TabControlForm.TabPageNghiepVu.metroTabControl3.TabPagePhieuNhap.tblLapPhieuNhap.tableLayoutPanel1.tableLayoutPanel4.tableLayoutPanel5.tbl_txtLapPhieuNhap.txtSoLuong_LapPN.PromptedTextBox;" />
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.DoAnCongNgheNet.frm_Main.TabControlForm.TabPageNghiepVu.metroTabControl3.TabPagePhieuNhap.tblLapPhieuNhap.tableLayoutPanel1.tableLayoutPanel4.tableLayoutPanel5.tableLayoutPanel6.btnGhiPN_LapPN;" />
+				</Data>
+			</Operation>
+			<Operation Type="{2F0A05A2-4ECD-47CE-A12B-9843A308F2DC}">
+				<Data Description="Checks whether the %p2 property of the %p1 object %p3 %p4.">
+					<Parameters LangId="{90F89436-9452-4F95-9882-6B5210079F13}">
+						<Parameter Name="Object" DefVarType="12" ParamType="{FC0DF733-E97F-46DD-8307-EA4DFF891298}" Expression="Aliases.DoAnCongNgheNet.dlg.Static3" />
+						<Parameter Name="Property" DefVarType="8" VarType="8" ValueType="6" ValueValue="WndCaption" />
+						<Parameter Name="Condition" DefVarType="3" VarType="3" ValueType="1" ValueValue="0" />
+						<Parameter Name="Value" DefVarType="12" VarType="8" ValueType="6" ValueValue="Phải thêm đầy đủ số lượng để Lập Phiếu Nhập!" />
+						<Parameter Name="CaseSensitive" DefVarType="11" DefValueType="7" DefValueValue="True" VarType="11" ValueType="7" ValueValue="True" />
+					</Parameters>
+				</Data>
+			</Operation>
+			<Operation Type="{575D0372-CCEB-4D0F-AFE8-D2004F108913}">
+				<Data Description="Clicks the &apos;%n&apos; button." Action="ClickButton">
+					<ObjectSyntax LangId="{90F89436-9452-4F95-9882-6B5210079F13}" Code="Aliases.DoAnCongNgheNet.dlg.btnOK;" />
+				</Data>
+			</Operation>
+		</Children>
+	</TestData>
+	<Parameters Key="{0083DA58-6823-4173-9E91-AA105F799DEA}" />
+</Root>

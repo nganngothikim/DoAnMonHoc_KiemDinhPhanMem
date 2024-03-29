@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="15.0">
+	<children>
+		<child name="TestThemPN_TC" key="{F59782E4-C3D9-4611-891C-1FEE1C0A6341}" path="TestThemPN_TC.tcKDTest" />
+		<child name="TestThemPN_KDayDuSL" key="{CA62568E-145B-4983-9E22-20120D0A379F}" path="TestThemPN_KDayDuSL.tcKDTest" />
+		<child name="TestThemPN_SaiDL" key="{50C821DB-7D6F-42DD-89DD-A67C77347F28}" path="TestThemPN_SaiDL.tcKDTest" />
+		<child name="TestThemPN_GiaNhap" key="{1E1F16EF-E1BE-484C-B0EC-477C85819F55}" path="TestThemPN_GiaNhap.tcKDTest" />
+	</children>
+</Root>

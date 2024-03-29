@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Root signature="{9576DAFD-0ADD-41A8-9897-C72F150AF6BB}" version="15.0">
+	<children>
+		<child name="TestXoaCTPN_No" key="{691D4344-C5B7-4836-AEA8-8C4EA65EADF7}" path="TestXoaCTPN_No.tcKDTest" />
+		<child name="TestXoaCTPN_Yes" key="{582DBF4C-8F35-431F-BE29-CC0375780E8E}" path="TestXoaCTPN_Yes.tcKDTest" />
+	</children>
+</Root>
